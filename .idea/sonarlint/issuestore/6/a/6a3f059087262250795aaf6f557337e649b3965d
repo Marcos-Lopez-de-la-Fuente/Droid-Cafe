@@ -1,0 +1,15 @@
+
+E
+java:S1604&"(Make this anonymous inner class a lambda(•Àˆ’8Ğå™÷Ì0
+s
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ8òæ™÷Ì0
+„
+java:S3252)"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(õ‰¯à8’ç™÷Ì0
+F
+java:S1172N"+Remove this unused method parameter "view".(âö(8¬â´÷Ì0
+M
+java:S1172U"+Remove this unused method parameter "view".(±Æ¨Œùÿÿÿÿ8­â´÷Ì0
+H
+java:S1172\"+Remove this unused method parameter "view".(Ñğÿ‘8®â´÷Ì0
+Y
+java:S1068"7Remove this unused "appBarConfiguration" private field.(ú’¤Úúÿÿÿÿ8Ô³œ÷Ì0
